@@ -2,7 +2,7 @@
 
 #Setup-Command
 
-##
+#
 apt update
 apt upgrade -y
 pkg install python -y
@@ -19,7 +19,7 @@ pkg install nano -y
 pkg install php -y
 pip install future -y
 pip2 install requirements -y
-##
+#
 
 #TermuX Clone Command
 
